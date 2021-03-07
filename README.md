@@ -7,7 +7,7 @@ To run on PC:
 
 Download Android Emulator such as BlueStacks, build and run app-debug.apk found in the Simple-Calculator directory
 
-To run on Android:
+To run on Android (Recommended):
 
 Directly run the app-debug.apk found in the Simple-Calculator directory
 
