@@ -1,5 +1,6 @@
 # Simple Calculator
 Java based calculator application that works on Android
+This application uses a two-stack algorithm for processing the order of operations.
 
 To run on PC:
 
