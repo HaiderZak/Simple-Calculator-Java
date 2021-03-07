@@ -1,4 +1,4 @@
-# Simple-Calculator-Java
+# Simple Calculator
 Java based calculator application that works on Android
 
 To run on PC:
